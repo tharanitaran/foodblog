@@ -4,7 +4,7 @@ backend:
   media_folder: "images/uploads"
 
 collections:
-    - name: "blog"
+  - name: "blog"
     label: "Blog"
     folder: "content/blog"
     create: true
